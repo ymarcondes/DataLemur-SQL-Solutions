@@ -24,9 +24,6 @@ Cada arquivo `.sql` segue o padrão:
 -- Conceitos: window functions, CTEs, joins...
 -- Raciocínio: explicação da abordagem utilizada
 
-SELECT ...
-```
-
 ---
 
 ## 📫 Contato
